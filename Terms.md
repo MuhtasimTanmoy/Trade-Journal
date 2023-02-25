@@ -1,4 +1,5 @@
 # Terms
+
 > Frequently Encountered Trading Term Definitions
 
 `Trading` refers to the practice of buying and selling financial instruments such as stocks, bonds, and other assets with the goal of making a profit.

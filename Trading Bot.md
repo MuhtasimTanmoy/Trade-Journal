@@ -59,3 +59,34 @@ The implementation shortfall strategy aims at minimizing the execution cost of a
 
 **Source**
 - ChatGPT
+
+**Links**
+
+- ML Models
+    - https://github.com/huseinzol05/Stock-Prediction-Models
+
+- Advances Crypto Trading Bot
+    - https://github.com/jesse-ai/jesse ✅
+    - https://github.com/hummingbot/hummingbot ✅
+    - https://github.com/freqtrade/freqtrade
+    - https://github.com/CryptoSignal/Crypto-Signal
+    - https://market.astrabit.io/strategies
+    - https://www.kucoin.com/trading-bot
+        - KuCoin has 6 trading bots
+            - Spot Grid
+            - Futures Grid
+            - Martingale ✅
+                - My personal favouite
+                - Works best for sideways
+            - Smart Rebalance
+            - Infinity Grid
+            - DCA
+
+- Quant Trading
+    - https://github.com/je-suis-tm/quant-trading
+    - https://github.com/hummingbot/hummingbot 
+
+- Interface
+    - https://app.trality.com/bot/edit/63ba86b5c4b536559091cde1/strategy
+    - https://geekflare.com/crypto-trading-bots
+    - https://ocw.mit.edu/courses/15-450-analytics-of-finance-fall-2010/pages/lecture-notes
