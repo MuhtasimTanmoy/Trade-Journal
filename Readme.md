@@ -1,6 +1,6 @@
 # Trade Journal
 
-> This is a repository where I put random take-away, terms, materials, documentation and anything and everything that I find interesting while learning general `Trading and Financial tools`, with a focus on the crypto finance and token economy.
+> This is a repository where I put random take-away, terms, materials, documentation and anything and everything that I find interesting while trading crypto, running bots and understanding quant trading with a focus on the defi.
 
 ## Sections
 - [Trading Bot](./Trading%20Bot.md)
