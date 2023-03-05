@@ -4,6 +4,7 @@ An order book is a list of buy and sell orders for a particular financial instru
 ### Implementations
 - [In memory order book](https://github.com/rubik/lobster)
 - [Order matching engine](https://github.com/dgtony/orderbook-rs)
+    - Code structure clear and concise
 - https://github.com/exchange-core/exchange-core
 - https://github.com/chronoxor/CppTrader
 - https://github.com/openware/opendax
