@@ -115,6 +115,3 @@ Some common examples of trading indicators listed below.
 - Williams Alligator
 - Williams Fractal
 - Zig Zag
-
-## Todo
-- Read detail about others

@@ -57,15 +57,14 @@ Until the trade order is fully filled, this algorithm continues sending partial 
 `Implementation Shortfall`
 The implementation shortfall strategy aims at minimizing the execution cost of an order by trading off the real-time market, thereby saving on the cost of the order and benefiting from the opportunity cost of delayed execution. The strategy will increase the targeted participation rate when the stock price moves favorably and decrease it when the stock price moves adversely.
 
-**Source**
-- ChatGPT
 
-**Links**
+## Links
 
 - ML Models
     - https://github.com/huseinzol05/Stock-Prediction-Models
 
 - Advances Crypto Trading Bot
+    - https://hummingbot.org
     - https://github.com/jesse-ai/jesse ✅
     - https://github.com/hummingbot/hummingbot ✅
     - https://github.com/freqtrade/freqtrade
@@ -85,6 +84,7 @@ The implementation shortfall strategy aims at minimizing the execution cost of a
 - Quant Trading
     - https://github.com/je-suis-tm/quant-trading
     - https://github.com/hummingbot/hummingbot 
+    - https://www.reddit.com/r/quant/comments/kmdnty/open_source_hft_market_maker_bot_for_crypto/
 
 - Interface
     - https://app.trality.com/bot/edit/63ba86b5c4b536559091cde1/strategy
