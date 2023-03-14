@@ -221,3 +221,7 @@ So in this example, the CAGR for the investment over the past 5 years is 9.6%. T
 `Beta:` A measure of a stock's volatility compared to the market. A beta of 1.27 suggests that the stock is more volatile than the market average, which is represented by a beta of 1.
 
 `BLOCK Market` is the market for bulk selling and buying on automatic matching with equal quantity and best price (all or none condition) basis. Orders entered in this market are immediately flashed on all trading workstations. The minimum amount for a bid of bulk lot for a certain security shall be Tk. 5 Lac at market price unless otherwise fixed by the Council from time to time with the approval of the SEC.
+
+`Mortgaze` bank loan with down pement with house as collateral.
+
+`Short selling` comes with 200% reward and infinite loss. It is leveraged trading. Short squeeze happens during shorting.
