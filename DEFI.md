@@ -6,16 +6,45 @@ Current Financial Services
 - Borrowing
 - Stock Market
 - Insurance
+- Money
+- Margin trading
+- Derivatives
 
 All made faster, decentralized, easy access to all with Defi.
 
 ## Decentralized Exchange
-- Uniswap
+
+- Two types
+    - Liquidity pool based
+    - Orderbook based
+        - Loopring, IDEX
+
+- Liquidity pool based
+    - Uniswap
+        - Liquidity providers get 0.03 percent fee and tokens from iquidity mining, but faces impermanent loss 
+    - Balancer
+        - Provides weighted liquidity
+    - Bancor
+        - Can mitigate impermatent loss, by adjusting weight
+    - Kyber
+
 - Sushiswap
-- Liquidity providers provide liquidity to pools
-    - By providing two assets
+    - Fork of Uniswap, transferred liquidity from Uniswap by vampire attack
+    - Liquidity providers provide liquidity to pools
+        - By providing two assets
+- Curve
+    - Less volatile token pairs are traded. eg. dai, usdc.
+
+## Margin Trading
+- dy/dx
+- fulcrum
+
+## Insurence
+- Nexus Mutual
+- opyn
 
 ## Lending Borrowing
+
 - AAVE
     - Credit Delegation
     - Tokenized Mortgazes 
@@ -57,8 +86,16 @@ All made faster, decentralized, easy access to all with Defi.
             - Smart Yeild Bonds
             - Smart Alpha Bonds
 
-**Automated Market Maker**
+## Others
+- Automated Market Maker
+- Oracles
+- Yeild Farming
+    - Maximizing APY by combining or moving funds with different strategies like lending, borrowing, supplying capital to LP, staking LP tokens.
+    - How?
+         - Risk, Liquidity Mining, Leverage
 
+- Liquidity Pools
+    - 
 
 **Links**
 - https://hedera.com/learning/decentralized-finance/decentralized-exchanges
