@@ -14,7 +14,7 @@ Some common examples of trading indicators listed below.
             - 26 day moving average
         - Histogram
         - Zero Line
-    - It alone only works in `uptrend`, during down trend it gives false signal. Combined with other indicators it can give good performance. For example.
+    - It alone only works in `uptrend`, during `down trend` it gives false signal. Combined with other indicators it can give good performance. For example.
         - Combined with 200 days moving average or EMA (exponential moving average) it can clarifiy trading entry position
         - But (MACD + EMA) combination works poorly in case of sideways clearly calculating with support and resistence can work
 

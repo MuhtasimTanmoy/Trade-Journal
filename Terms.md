@@ -36,7 +36,7 @@ Options can be traded on various financial markets, including exchanges and over
 
 `Spread:` The difference between the bid and ask price of a security or other asset.
 
-`Leverage:` The use of borrowed funds to increase the potential return on an investment.
+`Leverage:` The use of borrowed funds to increase the potential return on an investment. It turns good deal into great deal. Major way how bank makes money.
 
 `Margin:` The amount of money that must be deposited in a margin account in order to trade on margin.
 
@@ -64,9 +64,9 @@ Options can be traded on various financial markets, including exchanges and over
 
 `Volume:` The number of shares or other units of a security or other asset that are traded during a given period of time.
 
-`Open interest:` The total number of outstanding contracts for a particular security or other asset that have not yet been settled or closed.
+`Open Interest:` The total number of outstanding contracts for a particular security or other asset that have not yet been settled or closed.
 
-`Short selling:` The practice of selling a security or other asset that the seller does not own in the hopes of buying it back at a lower price in the future and profiting from the price difference.
+`Short Selling:` The practice of selling a security or other asset that the seller does not own in the hopes of buying it back at a lower price in the future and profiting from the price difference.
 
 `Volatility:` A measure of the amount by which the price of a security or other asset tends to fluctuate over time.
 
@@ -121,15 +121,15 @@ Risk/return tradeoff: The idea that the potential return on an investment is dir
 
 `Initial public offering (IPO):` The process by which a private company becomes a public company by selling shares to the public for the first time.
 
-`Secondary market:` The market for trading securities or other assets that have already been issued.
+`Secondary Market:` The market for trading securities or other assets that have already been issued.
 
-`Primary market:` The market for trading securities or other assets that are being issued for the first time.
+`Primary Market:` The market for trading securities or other assets that are being issued for the first time.
 
 `Liquidity:` The ability to buy or sell a security or other asset quickly and easily, without significantly affecting its price.
 
-`Order book:` A record of all the buy and sell orders for a particular security or other asset that have been placed but not yet executed.
+`Order Book:` A record of all the buy and sell orders for a particular security or other asset that have been placed but not yet executed.
 
-`Block trade:` A large trade that is executed outside of the normal order book, typically involving a significant number of shares or other units of a security or other asset.
+`Block Trade:` A large trade that is executed outside of the normal order book, typically involving a significant number of shares or other units of a security or other asset.
 
 `Dark pool:` A private forum for trading securities or other assets, where the details of the trades are not made public until after the trade has been executed.
 
@@ -179,7 +179,7 @@ Derivative exchanges can be physical or electronic. Physical derivative exchange
 
 Derivative exchanges play a key role in the financial markets by providing a central location for the buying and selling of derivatives and by setting the terms and conditions for trading these products. They also help to reduce the risk of default by requiring that traders post collateral, or margin, to cover potential losses.
 
-`What is drop copy in exchange`
+`What is DROP COPY in exchange`
 Drop copy is a term used in the context of financial exchanges to refer to the electronic transmission of trade information from one exchange to another. This information typically includes details such as the price, quantity, and time of the trade. Drop copy is used by exchanges to ensure that all relevant parties have access to accurate and up-to-date information about trades that have been executed on the exchange. It is also used as a mechanism for clearing and settling trades, as well as for regulatory reporting purposes.
 
 
@@ -222,6 +222,14 @@ So in this example, the CAGR for the investment over the past 5 years is 9.6%. T
 
 `BLOCK Market` is the market for bulk selling and buying on automatic matching with equal quantity and best price (all or none condition) basis. Orders entered in this market are immediately flashed on all trading workstations. The minimum amount for a bid of bulk lot for a certain security shall be Tk. 5 Lac at market price unless otherwise fixed by the Council from time to time with the approval of the SEC.
 
-`Mortgaze` bank loan with down pement with house as collateral.
+`Mortgaze` bank loan with down payment with house as collateral. It connects home owners to institutional investors. Any credit card or loan is a way to generate profit. Home owners buy from broker who connects to mortgaze lenders who in turn works for investment banker. Investment banker buys uses leverage to buy lots og mortgazes to amplify output. Often no risk, down payment, proof of income which are `sub prime mortgazes`.
 
-`Short selling` comes with 200% reward and infinite loss. It is leveraged trading. Short squeeze happens during shorting.
+`Collaterized Debt Obligation` collection of mortgazes. Packed in different stages- safe, medium, risky. The safe AAA rated bucket is hedged or ensured with `Credit default swap`. Risky slice goes to hedge funds. 
+
+`Short Selling` comes with 200% reward and infinite loss. It is leveraged trading. Short squeeze happens during shorting.
+
+`Credit Default Swap` is a financial derivative contract between two parties, where one party agrees to pay the other party in the event of a credit event, such as default, bankruptcy or a failure to pay by a third party.
+
+The CDS contract works by the buyer of the contract paying a periodic premium to the seller, in exchange for a promise to be compensated in the event of a credit event. The amount of compensation is typically based on the difference between the face value of the bond and its market value after the credit event.
+
+CDS contracts are commonly used by investors to manage credit risk in their portfolios. For example, if an investor holds a bond, they may purchase a CDS contract to hedge against the possibility of the issuer defaulting. Similarly, investors who do not hold the bond may also buy CDS contracts to speculate on the possibility of a credit event occurring.

@@ -6,5 +6,5 @@
 - [Trading Bot](./Trading%20Bot.md)
 - [Trading Indicators](./Trading%20Indicators.md)
 - [Terms](./Terms.md)
-- [Decentralized Exchange](./Decentralized%20Exchange.md)
 - [Orderbook](./Orderbook.md)
+- [Defi](./DEFI.md)

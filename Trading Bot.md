@@ -65,8 +65,8 @@ The implementation shortfall strategy aims at minimizing the execution cost of a
 
 - Advances Crypto Trading Bot
     - https://hummingbot.org
-    - https://github.com/jesse-ai/jesse ✅
-    - https://github.com/hummingbot/hummingbot ✅
+    - https://github.com/jesse-ai/jesse 
+    - https://github.com/hummingbot/hummingbot 
     - https://github.com/freqtrade/freqtrade
     - https://github.com/CryptoSignal/Crypto-Signal
     - https://market.astrabit.io/strategies
