@@ -72,8 +72,6 @@ Options can be traded on various financial markets, including exchanges and over
 
 `Diversification:` The practice of investing in a variety of different assets in order to spread out risk and potentially reduce the overall volatility of an investment portfolio.
 
-`Dollar Cost Average`
-
 `Market maker:` A firm or individual that is responsible for providing liquidity to a market by buying and selling securities or other assets.
 
 `Broker:` A person or firm that acts as an intermediary between buyers and sellers of securities or other assets, executing trades on behalf of their clients.
@@ -233,3 +231,9 @@ So in this example, the CAGR for the investment over the past 5 years is 9.6%. T
 The CDS contract works by the buyer of the contract paying a periodic premium to the seller, in exchange for a promise to be compensated in the event of a credit event. The amount of compensation is typically based on the difference between the face value of the bond and its market value after the credit event.
 
 CDS contracts are commonly used by investors to manage credit risk in their portfolios. For example, if an investor holds a bond, they may purchase a CDS contract to hedge against the possibility of the issuer defaulting. Similarly, investors who do not hold the bond may also buy CDS contracts to speculate on the possibility of a credit event occurring.
+
+`What is index fund? How they operate?`
+
+An index fund is a type of mutual fund or exchange-traded fund (ETF) that is designed to track the performance of a specific market index, such as the S&P 500 or the Dow Jones Industrial Average. Instead of being actively managed by a fund manager, index funds use a passive investment strategy that aims to match the performance of the underlying index by holding a portfolio of securities that closely tracks the index's composition and weighting.
+
+Sure. For example, let's say you want to invest in an index fund that tracks the performance of the S&P 500, which is an index of 500 large-cap U.S. stocks. Instead of trying to pick individual stocks and actively manage your portfolio, you can simply buy shares in the index fund, which will automatically invest in all 500 stocks in the S&P 500 in proportions that closely match the index's composition and weighting. This means that if the S&P 500 goes up or down, the value of your index fund investment will also go up or down by a similar amount.
