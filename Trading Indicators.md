@@ -15,8 +15,8 @@ Some common examples of trading indicators listed below.
         - Histogram
         - Zero Line
     - It alone only works in `uptrend`, during `down trend` it gives false signal. Combined with other indicators it can give good performance. For example.
-        - Combined with 200 days moving average or EMA (exponential moving average) it can clarifiy trading entry position
-        - But (MACD + EMA) combination works poorly in case of sideways clearly calculating with support and resistence can work
+        - Combined with `200 days moving average or EMA` (exponential moving average) it can clarifiy trading entry position
+        - But `(MACD + EMA)` combination works poorly in case of sideways clearly calculating with support and resistence can work
 
 - Percentage Price Oscillator
     - The Percentage Price Oscillator (PPO) is a technical analysis indicator that is used to measure the difference between two moving averages as a percentage. It is similar to the `Moving Average Convergence Divergence (MACD)` indicator, but instead of showing the difference between two moving averages as an absolute value, it shows it as a percentage.
@@ -28,6 +28,11 @@ Some common examples of trading indicators listed below.
     - It is important to consider other factors, such as price and volume, when making trading decisions
 
 - Relative Strength Index (RSI)
+    - Indetifies if a stock is overbought or oversold
+- Fibonacci
+    - Retracements
+    - Expansions
+    - Extensions
 - Ichimoku Cloud (Leading Span A, Leading Span B, Conversion Line, Base Line)
 - Simple Moving Average
 - Exponential Moving Average
