@@ -95,7 +95,39 @@ All made faster, decentralized, easy access to all with Defi.
          - Risk, Liquidity Mining, Leverage
 
 - Liquidity Pools
-    - 
+
+
+## Layer 1 Chains
+- Bitcoin
+- Ethereum
+- Binance Smart Chain
+- Cardano
+- Polkadot
+- Near
+- Solana
+- Conflux
+- Avalanche
+- Tezos
+- Cosmos
+- Algorand
+- Avalanche X:
+- Hashgraph
+- Terro
+- EOS
+- Tron
+- Nervos
+- Phala
+- Harmony
+- Kusama
+- Theta
+- Cardano
+- Kadena
+
+## Layer 2 Chains
+- Lightening network
+- Raiden
+- Polygon
+- Arbitrum
 
 **Links**
 - https://hedera.com/learning/decentralized-finance/decentralized-exchanges
