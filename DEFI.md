@@ -87,7 +87,19 @@ All made faster, decentralized, easy access to all with Defi.
             - Smart Alpha Bonds
 
 ## Others
-- Automated Market Maker
+- [Automated Market Maker](https://www.youtube.com/watch?v=KxuyHfmLHP0)
+    - Basic AMM
+        - Constant Product
+        - Constant Sum
+    - Hybrid AMM
+        - Stable Swap
+        - Solidly Stable pairs
+        - Dodo PMM
+        - Clipper
+        - Crypto Swap
+    - Virtual Reserve AMM
+        - Kyber DMM
+        - Uniswap v3
 - Oracles
 - Yeild Farming
     - Maximizing APY by combining or moving funds with different strategies like lending, borrowing, supplying capital to LP, staking LP tokens.
