@@ -2,17 +2,17 @@
 
 > Frequently Encountered Trading Term Definitions
 
-`Trading` refers to the practice of buying and selling financial instruments such as stocks, bonds, and other assets with the goal of making a profit.
+`Trading` refers to the practice of buying and selling financial instruments such as stocks, bonds, and other assets to make a profit.
 
 `Day trading` involves buying and selling assets within a single trading day, and often involves taking advantage of short-term price movements. 
 
 `Swing trading` on the other hand, involves holding positions for a few days or weeks, and involves taking advantage of short-term trends in the market.
 
-`Position trading` also known as long-term trading, involves holding assets for a longer period of time, often several months or years. 
+`Position trading` also known as long-term trading, involves holding assets for a longer period, often several months or years. 
 
-`Spot trading` refers to the buying and selling of securities or other assets for immediate settlement. This means that when you engage in spot trading, the transaction is completed and the assets are delivered to the buyer or seller on the same day, or on the next business day if the trade is conducted after market hours. For example, if you buy 100 shares of a company's stock through spot trading, you will receive those 100 shares in your account on the same day or the next business day, depending on the time of the trade.
+`Spot trading` refers to the buying and selling of securities or other assets for immediate settlement. This means that when you engage in spot trading, the transaction is completed and the assets are delivered to the buyer or seller on the same day, or the next business day if the trade is conducted after market hours. For example, if you buy 100 shares of a company's stock through spot trading, you will receive those 100 shares in your account on the same day or the next business day, depending on the time of the trade.
 
-`Margin trading` involves the use of borrowed funds from a broker to trade securities or other assets. This allows traders to potentially increase their buying power and make larger trades than they would be able to with just their own funds. However, margin trading also carries a higher level of risk, as traders are responsible for any losses incurred on the borrowed funds. For example, if you have $10,000 in your account and your broker allows you to trade on margin with a 2:1 ratio, you could trade up to $20,000 worth of securities. However, if the value of those securities declines, you could lose more than your initial investment.
+`Margin trading` involves the use of borrowed funds from a broker to trade securities or other assets. This allows traders to potentially increase their buying power and make larger trades than they would be able to with just their funds. However, margin trading also carries a higher level of risk, as traders are responsible for any losses incurred on the borrowed funds. For example, if you have $10,000 in your account and your broker allows you to trade on margin with a 2:1 ratio, you could trade up to $20,000 worth of securities. However, if the value of those securities declines, you could lose more than your initial investment.
 
 `Futures trading` involves the buying and selling of contracts for the future delivery of a particular asset. These contracts are standardized in terms of quantity, quality, and expiration date, and they are traded on futures exchanges. For example, if you believe the price of oil will rise in the future, you could buy a futures contract for the delivery of a certain amount of oil at a future date. If the price of oil does indeed rise, you could sell the contract for a profit.
 
@@ -70,15 +70,15 @@ Options can be traded on various financial markets, including exchanges and over
 
 `Volatility:` A measure of the amount by which the price of a security or other asset tends to fluctuate over time.
 
-`Diversification:` The practice of investing in a variety of different assets in order to spread out risk and potentially reduce the overall volatility of an investment portfolio.
+`Diversification:` The practice of investing in a variety of different assets to spread out risk and potentially reduce the overall volatility of an investment portfolio.
 
 `Market maker:` A firm or individual that is responsible for providing liquidity to a market by buying and selling securities or other assets.
 
 `Broker:` A person or firm that acts as an intermediary between buyers and sellers of securities or other assets, executing trades on behalf of their clients.
 
-`Hedge fund:` A type of investment fund that uses a variety of strategies, including leverage and short selling, in order to generate returns that are not correlated with the broader market.
+`Hedge fund:` A type of investment fund that uses a variety of strategies, including leverage and short selling, to generate returns that are not correlated with the broader market.
 
-`Mutual fund:` A type of investment fund that pools money from many investors and uses it to buy a diversified portfolio of securities or other assets.
+`Mutual fund:` A type of investment fund that pools money from many investors and uses it to buy a diversified portfolio of securities or other assets. Example: [Edge Mutual Fund](https://www.edgeamc.com/contents/website/reports/report_edge-master-guide-to-mutual-funds.pdf) etc
 
 `ETF:` A type of investment fund that tracks the performance of a particular index or basket of assets and is traded on an exchange like a stock.
 
