@@ -13,7 +13,6 @@ Current Financial Services
 All made faster, decentralized, easy access to all with Defi.
 
 ## Decentralized Exchange
-
 - Two types
     - Liquidity pool based
     - Orderbook based
@@ -27,19 +26,20 @@ All made faster, decentralized, easy access to all with Defi.
     - Bancor
         - Can mitigate impermatent loss, by adjusting weight
     - Kyber
-
-- Sushiswap
-    - Fork of Uniswap, transferred liquidity from Uniswap by vampire attack
-    - Liquidity providers provide liquidity to pools
-        - By providing two assets
-- Curve
-    - Less volatile token pairs are traded. eg. dai, usdc.
+    - Sushiswap
+        - Fork of Uniswap, transferred liquidity from Uniswap by vampire attack
+        - Liquidity providers provide liquidity to pools
+            - By providing two assets
+    - Curve
+        - Less volatile token pairs are traded. eg. dai, usdc.
 
 ## Margin Trading
+
 - dy/dx
 - fulcrum
 
 ## Insurence
+
 - Nexus Mutual
 - opyn
 
@@ -51,6 +51,7 @@ All made faster, decentralized, easy access to all with Defi.
 - Compound
 
 ## Derivatives in DEFI
+
 -  Derives it's value from another asset, stock, bond, commodity, fx, interest
 
 - Types
@@ -107,6 +108,12 @@ All made faster, decentralized, easy access to all with Defi.
          - Risk, Liquidity Mining, Leverage
 
 - Liquidity Pools
+- Liquid Restaking Tokens
+  - [ether.fi](https://app.ether.fi)
+  - [renzo](https://app.renzoprotocol.com/)
+  - [puffer](https://quest.puffer.fi)
+  - [kelpdao](https://kelpdao.xyz)
+  - [swell](https://app.swellnetwork.io)
 
 
 ## Layer 1 Chains
